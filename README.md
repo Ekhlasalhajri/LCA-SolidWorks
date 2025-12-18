@@ -24,3 +24,13 @@ The results support sustainable mechanical design decisions by comparing environ
 
 ## Project Type
 Academic project – Mechanical Engineering / Sustainable Design
+
+## Project Images
+
+![SolidWorks Image 5](IMG_6556%20(1).jpg)
+![SolidWorks Image 1](solidwork1.png)
+![SolidWorks Image 2](solidwork2.png)
+![SolidWorks Image 3](solidwork3.png)
+![SolidWorks Image 4](solidwork4.png)
+
+
